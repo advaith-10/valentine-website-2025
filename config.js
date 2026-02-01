@@ -5,11 +5,11 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "POOKIEBAEE",
+    valentineName: "AKKKKUUUU",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "OPEN MEEEE🤓",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "Yayyyyyyyyyyyyyyyyyyy 🎉💝💖💝💓",
+        message: "Now come get your hugssssss!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
